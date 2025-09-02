@@ -1,8 +1,9 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmy-leaning-journy-datacamp-wael-dagash&psig=AOvVaw0dIdW-02XT3A5KKNZNrpih&ust=1756926340365000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCyjOXiuo8DFQAAAAAdAAAAABAp)
 
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
-<h3 align="center">A passionate Data Scientist</h3>  (img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkYWV4bGN2djhxbXpqem5seTc4MzQ0c2ZqMjZiNmRjb2hjczBxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NTtoU4hkyq8W48re2f/giphy.gif")
+<h3 align="center">A passionate Data Scientist</h3>  
 
+(img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFoaW8zZHJ2dHIxaTFzeTQ3ZnQwbTNxNjZmNnVocXFybWh3dTd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTtoU4hkyq8W48re2f/giphy.gif
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datascyther&label=Profile%20views&color=0e75b6&style=flat" alt="datascyther" /> </p>

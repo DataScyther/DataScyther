@@ -32,14 +32,14 @@
 
 ## 🌟 Featured Projects
 
-### 🧠 AI Mental Wellness App
+### 🧠 Neeva AI
 Revolutionary platform enhancing mental health support through AI
 - AI-Powered 24/7 emotional support system
 - Personalized user experience with adaptive content
 - Advanced encryption & privacy-first architecture
 - `React Native` `Node.js` `Express` `NLP` `Supabase`
 
-### 💫 Matrix UPI QR Code Generator
+### 💫 Matrix Themed UPI Payment System
 Futuristic payment system with immersive Matrix theme
 - Matrix-inspired UI with stunning animations
 - Voice-assisted QR code generation

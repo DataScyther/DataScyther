@@ -24,8 +24,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=tensorflow)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=pytorch)
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/GCP-Proficient-4285F4?style=for-the-badge&logo=google-cloud)
 ![MLOps](https://img.shields.io/badge/MLOps-00C7B7?style=for-the-badge&logo=docker)
 
 </div>
